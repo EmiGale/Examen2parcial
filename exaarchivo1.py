@@ -1,5 +1,7 @@
 import random
 
+#Emiliano Galeana Avila 22 de marzo de 2024
+
 # Lista de palabras para adivinar
 palabras = ["gato", "perro", "elefante", "leon", "tigre", "jirafa", "rinoceronte", "hormiga", "araña", "avispa"]
 
